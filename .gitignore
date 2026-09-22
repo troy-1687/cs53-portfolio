@@ -1,0 +1,17 @@
+# Environment and secret files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Course submission and grader files
+submissions/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
