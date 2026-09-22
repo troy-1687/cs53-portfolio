@@ -4,20 +4,20 @@ This lab establishes the computing environments and tools used throughout the CS
 
 ## Linux Check
 
-- Linux environment: Not yet verified
+- Linux environment: verified
 - File created: `linux-check.txt`
 
 ## Windows Check
 
-- Windows environment: Not yet verified
+- Windows environment: verified
 - File created: `windows-check.txt`
 
 ## GitHub Check
 
-- GitHub account: Not yet verified
-- Portfolio repository: Not yet verified
-- Codio connection: Not yet verified
+- GitHub account: verified
+- Portfolio repository: verified
+- Codio connection: verified
 
 ## What I Learned
 
-Briefly describe one thing you learned while setting up your computing environments, GitHub account, or course portfolio.
+I learned how to set up and connect my Codio and Github accounts. Also Learned how to set up a portfolio on Github.
